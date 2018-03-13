@@ -1,0 +1,110 @@
+
+# Omat Blockit
+
+
+
+# GOP3
+
+127.0.0.1 t.appsflyer.com
+127.0.0.1 m.facebook.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 deploy.akamaitechnologies.com
+127.0.0.1 scontent-arn2-1.xx.fbcdn.net
+127.0.0.1 scontent.xx.fbcdn.net
+
+# Heya
+
+127.0.0.1 i.scdn.co
+127.0.0.1 compute.amazonaws.com
+
+
+
+# Mamba
+
+127.0.0.1 register.appsflyer.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 stats.appsflyer.com
+
+# AIO Toolbox
+
+127.0.0.1 feedback.aiomoblife.com
+127.0.0.1 api.tinyhoneybee.com
+127.0.0.1 detect.rayjump.com
+127.0.0.1 sc.smardroid.com
+127.0.0.1 smart.tinyhoneybee.com
+127.0.0.1 e.crashlytics.com
+
+
+# Es Resurssienhallinta
+
+127.0.0.1 dxp.baidu.com
+127.0.0.1 rts.ssl2.duapps.com
+127.0.0.1 extern.yahoo.com
+127.0.0.1 pasta.esfile.duapps.com
+127.0.0.1 openrcv.baidu.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 syndication.site.yahoo.net
+127.0.0.1 img.phone.baidu.com
+127.0.0.1 openrcv.baidu.com
+127.0.0.1 mblapi.ssl2.duapps.com
+127.0.0.1 ggimg.tapas.net
+127.0.0.1 conf.international.baidu.com
+127.0.0.1 www.estrongs.com
+127.0.0.1 hmma.baidu.com
+
+
+# Spotify
+
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 app.adjust.com
+127.0.0.1 apresolve.spotify.com
+127.0.0.1 daily-mix.scdn.co
+127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 graph.accountkit.com
+127.0.0.1 i.scdn.co
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 graph.accountkit.com
+127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 audio-fa.spotify.com
+127.0.0.1 heads-cf.spotify.com
+127.0.0.1 audio-ak.spotify.com.edgesuite.net
+127.0.0.1 audio-sp.bma.spotify.com
+# 127.0.0.1 mobile-ap.spotify.com
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 heads-cf.spotify.com
+127.0.0.1 accounts.spotify.com
+127.0.0.1 b5.video-ak.cdn.spotify.com
+127.0.0.1 audio-fac.spotify.com
+127.0.0.1 crashdump.spotify.com
+
+
+# YouTube
+
+127.0.0.1 adservice.google.fi
+127.0.0.1 www.googleadservices.com
+127.0.0.1 googleads.g.doubleclick.net
+
+
+# Badoo
+
+127.0.0.1 gate.hockeyapp.net
+127.0.0.1 pcache-pv-eu1.badoocdn.com
+127.0.0.1 pcache-eu1.badoocdn.com
+127.0.0.1 external.xx.fbcdn.net
+
+
+# Chrome
+
+127.0.0.1 cdn.nettix.fi
+127.0.0.1 inpref.s3.amazonaws.com
+127.0.0.1 tags.tiqcdn.com
+
+
+
+
+
+
+
+
+
+

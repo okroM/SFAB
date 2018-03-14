@@ -8,9 +8,14 @@
 127.0.0.1 t.appsflyer.com
 127.0.0.1 m.facebook.com
 127.0.0.1 graph.facebook.com
-127.0.0.1 deploy.akamaitechnologies.com
+127.0.0.1 95.101.78.226.deploy.akamaitechnologies.com
 127.0.0.1 scontent-arn2-1.xx.fbcdn.net
 127.0.0.1 scontent.xx.fbcdn.net
+127.0.0.1 med.heyzap.com
+127.0.0.1 ads.heyzap.com
+127.0.0.1 clients3.google.com
+127.0.0.1 collect3515gvrnr.deltadna.net
+127.0.0.1 orangegames.helpshift.com
 
 # Heya
 
@@ -57,10 +62,10 @@
 # Spotify
 
 127.0.0.1 reports.crashlytics.com
-# 127.0.0.1 app.adjust.com
+127.0.0.1 app.adjust.com
 # 127.0.0.1 apresolve.spotify.com
 # 127.0.0.1 daily-mix.scdn.co
-# 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 graph.accountkit.com
 # 127.0.0.1 i.scdn.com
 127.0.0.1 settings.crashlytics.com
@@ -71,7 +76,7 @@
 # 127.0.0.1 audio-sp.bma.spotify.com
 # 127.0.0.1 mobile-ap.spotify.com
 # 127.0.0.1 spclient.wg.spotify.com
-# 127.0.0.1 heads-cf.spotify.com
+127.0.0.1 heads-cf.spotify.com
 # 127.0.0.1 accounts.spotify.com
 127.0.0.1 b5.video-ak.cdn.spotify.com
 # 127.0.0.1 audio-fac.spotify.com

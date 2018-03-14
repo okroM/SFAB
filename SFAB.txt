@@ -19,7 +19,6 @@
 
 # Heya
 
-127.0.0.1 i.scdn.co
 127.0.0.1 compute.amazonaws.com
 
 
@@ -76,8 +75,8 @@
 # 127.0.0.1 mobile-ap.spotify.com
 # 127.0.0.1 spclient.wg.spotify.com
 # 127.0.0.1 accounts.spotify.com
-# 127.0.0.1 b5.video-ak.cdn.spotify.com
-# 127.0.0.1 audio-fac.spotify.com
+127.0.0.1 b5.video-ak.cdn.spotify.com
+127.0.0.1 audio-fac.spotify.com
 127.0.0.1 crashdump.spotify.com
 
 

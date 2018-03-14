@@ -19,7 +19,7 @@
 
 
 
-# Mamba
+# Mamba.ru
 
 127.0.0.1 register.appsflyer.com
 127.0.0.1 events.appsflyer.com
@@ -61,8 +61,8 @@
 # 127.0.0.1 daily-mix.scdn.co
 # 127.0.0.1 udm.scorecardresearch.com
 # 127.0.0.1 graph.accountkit.com
-# 127.0.0.1 i.scdn.co
-# 127.0.0.1 settings.crashlytics.com
+# 127.0.0.1 i.scdn.com
+127.0.0.1 settings.crashlytics.com
 # 127.0.0.1 graph.accountkit.com
 # 127.0.0.1 udm.scorecardresearch.com
 # 127.0.0.1 audio-fa.spotify.com
@@ -98,6 +98,13 @@
 127.0.0.1 cdn.nettix.fi
 127.0.0.1 inpref.s3.amazonaws.com
 127.0.0.1 tags.tiqcdn.com
+
+
+# Ilta-Sanomat
+
+127.0.0.1 ads-manual02.nelonenmedia.fi
+127.0.0.1 ads-spotgate02.nelonenmedia.fi
+
 
 
 

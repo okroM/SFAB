@@ -25,7 +25,6 @@
 127.0.0.1 events.appsflyer.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 graph.accountkit.com
-127.0.0.1 t.appsflyer.com
 
 
 # AIO Toolbox

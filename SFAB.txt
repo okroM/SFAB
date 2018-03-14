@@ -71,19 +71,15 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 audio-fa.spotify.com
-127.0.0.1 heads-cf.spotify.com
+# 127.0.0.1 heads-cf.spotify.com
 127.0.0.1 audio-ak.spotify.com.edgesuite.net
 127.0.0.1 audio-sp.bma.spotify.com
 # 127.0.0.1 mobile-ap.spotify.com
 # 127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 heads-cf.spotify.com
 127.0.0.1 accounts.spotify.com
 127.0.0.1 b5.video-ak.cdn.spotify.com
 127.0.0.1 audio-fac.spotify.com
 127.0.0.1 crashdump.spotify.com
-127.0.0.1 224.0.0.251
-127.0.0.1 239.255.255.250
-127.0.0.1 255.255.255.255
 
 
 # YouTube

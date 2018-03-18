@@ -16,6 +16,8 @@
 127.0.0.1 clients3.google.com
 127.0.0.1 collect3515gvrnr.deltadna.net
 127.0.0.1 orangegames.helpshift.com
+127.0.0.1 engage3515gvrnr.deltadna.net
+127.0.0.1 config.uca.cloud.unity3d.com
 
 # Heya
 

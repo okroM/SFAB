@@ -108,6 +108,7 @@
 
 127.0.0.1 ads-manual02.nelonenmedia.fi
 127.0.0.1 ads-spotgate02.nelonenmedia.fi
+127.0.0.1 freewheel-mtgx-tv.akamaized.net
 
 
 

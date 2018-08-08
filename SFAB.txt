@@ -112,6 +112,13 @@
 127.0.0.1 udm.scorecardresearch.com
 
 
+# Happy Pancake
+
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 codepush.azurewebsites.net
+127.0.0.1 prebid.adnxs.com
+
+
 
 
 

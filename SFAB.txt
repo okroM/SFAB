@@ -118,6 +118,10 @@
 127.0.0.1 codepush.azurewebsites.net
 127.0.0.1 prebid.adnxs.com
 
+# Sanomamedia
+
+127.0.0.1 dwk14raokkwxv.cloudfront.net
+
 
 
 
